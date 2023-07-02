@@ -1,2 +1,0 @@
-# afbotz24jam
-Botku
